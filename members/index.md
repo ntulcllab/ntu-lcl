@@ -17,11 +17,11 @@ nav:
 專長:  控制工程、非線性系統、強化學習、多代理人系統 
 (Expertise: Control Engineering, Nonlinear Systems, Reinforcement Learning, Multi-Agent Systems) 
 
-Office:EE2 R620
+Office:農機館 314 室
 
-Phone:(02)24622192 ext 6205  
+Phone:+886-2- 33665355
 
-Email: mingli@mail.ntou.edu.tw
+Email: mingli@mail.ntu.edu.tw
 
 {% endcapture %}
 

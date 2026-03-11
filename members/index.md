@@ -38,14 +38,29 @@ Email: mingli@mail.ntu.edu.tw
 
 ## 碩二
 
+{% assign names = "xxx" | split: "|" %}
+
+{% assign emails = "@gmail.com|" | split: "|" %}
+{% include image-grid.html %}
 
 ## 碩一
+{% assign names = "xxx" | split: "|" %}
 
+{% assign emails = "@gmail.com|" | split: "|" %}
+{% include image-grid.html %}
+<!-- section break -->
 # {% include icon.html icon="fa-solid fa-users" %}​In-service Master Students
+{% assign names = "xxx" | split: "|" %}
 
+{% assign emails = "@gmail.com|" | split: "|" %}
+{% include image-grid.html %}
+<!-- section break -->
 # {% include icon.html icon="fa-solid fa-users" %}Undergraduate Students
 
+{% assign names = "xxx" | split: "|" %}
 
+{% assign emails = "@gmail.com|" | split: "|" %}
+{% include image-grid.html %}
 <!-- section break -->
 # {% include icon.html icon="fa-solid fa-users" %}[Alumnis](/ntou-lcl/members/Alumni)
 

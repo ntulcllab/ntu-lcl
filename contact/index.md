@@ -18,7 +18,7 @@ nav:
 
 電話: +886-2- 33665355 
 
-email: mingli@mail.ntu.edu.tw
+email: mingli@ntu.edu.tw
 
 **聯絡方式**  
 
@@ -36,7 +36,7 @@ Office: Room 314, Agricultural Machinery Hall
 
 Phone: +886-2- 33665355
 
-Email: mingli@mail.ntu.edu.tw
+Email: mingli@ntu.edu.tw
 
 **Contact Information**
 

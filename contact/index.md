@@ -42,7 +42,7 @@ Email: mingli@mail.ntu.edu.tw
 
 Laboratory Location: Room 301,  Tomatake Hall
 
-Address: No. 2, Beining Road, Zhongzheng District, Keelung City, 202301, Taiwan (R.O.C.), Electrical Engineering Building II
+Address: No. 1, Sec. 4, Roosevelt Rd., Da'an Dist., Taipei City 106216, Taiwan (R.O.C.), Tomatake Hall
 
 Phone: 
 {% endcapture %}

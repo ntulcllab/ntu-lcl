@@ -14,37 +14,37 @@ nav:
 
 江明理 老師
 
-辦公室: 電機2館 620室
+辦公室: 農機館 314 室
 
-電話: +886-2-2462-2192 ext 6205  
+電話: +886-2- 33665355 
 
-email: mingli@mail.ntou.edu.tw
+email: mingli@mail.ntu.edu.tw
 
 **聯絡方式**  
 
-地址: 202301 基隆市中正區北寧路2號電機二館  
+地址:10617台北市大安區羅斯福路四段一號 生物機電工程系 
 
-實驗室位置: 電機2館 411室  
+實驗室位置: 知武館 301室 
 
-電話: +886-2-2462-2192 ext 6245
+電話: 
 
 **Principal Investigator**
 
 Professor Ming-Li Chiang
 
-Office: Room 620, Electrical Engineering Building II
+Office: Room 314, Agricultural Machinery Hall
 
-Phone: +886-2-2462-2192 ext 6205
+Phone: +886-2- 33665355
 
-Email: mingli@mail.ntou.edu.tw
+Email: mingli@mail.ntu.edu.tw
 
 **Contact Information**
 
-Laboratory Location: Room 411, Electrical Engineering Building II
+Laboratory Location: Room 301,  Tomatake Hall
 
 Address: No. 2, Beining Road, Zhongzheng District, Keelung City, 202301, Taiwan (R.O.C.), Electrical Engineering Building II
 
-Phone: +886-2-2462-2192 ext 6245
+Phone: 
 {% endcapture %}
 
 {%

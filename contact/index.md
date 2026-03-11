@@ -49,7 +49,7 @@ Phone:
 
 {%
   include feature.html
-  image="images/map.jpg"
+  image="images/mapp.jpg"
   title=""
   text=text
 %}

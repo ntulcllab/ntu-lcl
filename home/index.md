@@ -6,7 +6,7 @@ nav:
 ---
 
 
-## NTOU LEARNING CONTROL LAB
+## NTU LEARNING CONTROL LAB
 
 
 

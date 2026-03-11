@@ -21,7 +21,7 @@ Office:農機館 314 室
 
 Phone:+886-2- 33665355
 
-Email: mingli@mail.ntu.edu.tw
+Email: mingli@ntu.edu.tw
 
 {% endcapture %}
 

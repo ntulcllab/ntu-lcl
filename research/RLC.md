@@ -3,7 +3,7 @@ title: RLC
 parent: Research
 subcategories:
   - title: Reinforcement Learning Landing
-    url: "/ntou-lcl/research/RLC/RL_Landing"
+    url: "/ntu-lcl/research/RLC/RL_Landing"
 ---
 
 ## Reinforcement Learning Landing

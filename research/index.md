@@ -5,15 +5,15 @@ nav:
   tooltip: Research Areas
 subcategories:
   - title: MAS
-    url: "/ntou-lcl/research/UAV_avoid"
+    url: "/ntu-lcl/research/UAV_avoid"
   - title: UAV_System_Design
-    url: "/ntou-lcl/research/UAV_System_Design"
+    url: "/ntu-lcl/research/UAV_System_Design"
   - title: ADS
-    url: "/ntou-lcl/research/ADS"
+    url: "/ntu-lcl/research/ADS"
   - title: FC_UAVs
-    url: "/ntou-lcl/research/FC-UAVs"
+    url: "/ntu-lcl/research/FC-UAVs"
   - title: RLC
-    url: "/ntou-lcl/research/RLC"
+    url: "/ntu-lcl/research/RLC"
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
@@ -21,11 +21,11 @@ subcategories:
 ## Control of Multi-Agent System 多代理人系統控制
 
 {% capture text %}
-[Cooperative Control of MAS](/ntou-lcl/research/MAS)
+[Cooperative Control of MAS](/ntu-lcl/research/MAS)
 
-[Formation Control of UAVs](/ntou-lcl/research/FC_UAVs)
+[Formation Control of UAVs](/ntu-lcl/research/FC_UAVs)
 
-[Multi-UAV System Design and Applications](/ntou-lcl/research/UAV_System_Design)
+[Multi-UAV System Design and Applications](/ntu-lcl/research/UAV_System_Design)
 
 Nonlinear and Adaptive Control Theory
 
@@ -44,7 +44,7 @@ Nonlinear and Adaptive Control Theory
 {% capture text %}
 Robot Operating System (ROS)  
 
-[Automated Driving System (ADS)](/ntou-lcl/research/ADS)
+[Automated Driving System (ADS)](/ntu-lcl/research/ADS)
 
 Autonomous Moving Robot (AMR)
 
@@ -60,7 +60,7 @@ Autonomous Moving Robot (AMR)
 ## Rinforcement Learning Control and Its Applications 強化學習控制與應用
 
 {% capture text %}
-[Reinforcement Learning Control](/ntou-lcl/research/RLC)
+[Reinforcement Learning Control](/ntu-lcl/research/RLC)
 
 Actor-Critic Neural Network  
 

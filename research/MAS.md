@@ -3,7 +3,7 @@ title: MAS
 parent: Research
 subcategories:
   - title: 無人機避障
-    url: "/ntou-lcl/research/MAS/UAV_avoid"
+    url: "/ntu-lcl/research/MAS/UAV_avoid"
 ---
 
 ## Cooperative Control of MAS

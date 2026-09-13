@@ -60,11 +60,12 @@ Autonomous Moving Robot (AMR)
 ## Rinforcement Learning Control and Its Applications 強化學習控制與應用
 
 {% capture text %}
-[Reinforcement Learning Control](/ntu-lcl/research/RLC)
+[MARL](/ntu-lcl/research/MARL)
 
-Actor-Critic Neural Network  
+[MPC-RL](/ntu-lcl/research/MPC-RL)
 
-Deep Reinforcement Learning Control and Applications
+[CBF-RL](/ntu-lcl/research/CBF-RL)
+
 
 {% endcapture %}
 {%

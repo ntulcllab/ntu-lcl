@@ -1,12 +1,12 @@
 ---
-title: RLC
+title: MARL
 parent: Research
 subcategories:
-  - title: Reinforcement Learning Landing
-    url: "/ntu-lcl/research/RLC/RL_Landing"
+  - title: Muti-Agent Reinforcement Learning Landing
+    url: "/ntu-lcl/research/MARL/RL_Landing"
 ---
 
-## Reinforcement Learning Landing
+## Muti-Agent Reinforcement Learning
 <ul>
   {% for subcategory in page.subcategories %}
     <li><a href="{{ subcategory.url }}">{{ subcategory.title }}</a></li>

@@ -38,29 +38,20 @@ Email: mingli@ntu.edu.tw
 
 ## 碩二
 
-{% assign names = "xxx" | split: "|" %}
-
-{% assign emails = "@gmail.com|" | split: "|" %}
+{% assign images = "images/cheyu.JPG|images/kuanyu.jpg|images/chunyu.jpg|images/kuanchen.jpg|images/yuju.jpg" | split: "|" %}
+{% assign names = "周哲宇 CHE-YU CHOU|王寬裕 KUAN-YU WANG|楊竣宇 CHUN-YU YANG|鄒冠程 KUAN-CHENG TSOU|陳郁儒 YU-JU CHEN" | split: "|" %}
+{% assign emails = "11453035@mail.ntou.edu.tw|11453006@email.ntou.edu.tw|11453077@email.ntou.edu.tw|zouguancheng@gmail.com|11353093@mail.ntou.edu.tw" | split: "|" %}
 {% include image-grid.html %}
 
 ## 碩一
-{% assign names = "xxx" | split: "|" %}
-
-{% assign emails = "@gmail.com|" | split: "|" %}
+{% assign images = "images/wen.jpg|images/hsiaokang.jpg|images/S__13787228.jpg|images/S__13787224.jpg|images/huashan.jpg" | split: "|" %}
+{% assign names = "溫翔宇 SIANG-YU WEN|林曉岡 LIN HSIAO KANG|林冠廷 LIN  KUAN-TING|李盛玄 Lee Sheng hsuan|趙華杉 Chao Hua Shan" | split: "|" %}
+{% assign emails = "11453006@email.ntou.edu.tw|r15631046@ntu.edu.tw|r15631038@ntu.edu.tw|r14631040@ntu.edu.tw|r15631062@ntu.edu.tw" | split: "|" %}
 {% include image-grid.html %}
 <!-- section break -->
 # {% include icon.html icon="fa-solid fa-users" %}​In-service Master Students
-{% assign names = "xxx" | split: "|" %}
-
-{% assign emails = "@gmail.com|" | split: "|" %}
-{% include image-grid.html %}
 <!-- section break -->
 # {% include icon.html icon="fa-solid fa-users" %}Undergraduate Students
-
-{% assign names = "xxx" | split: "|" %}
-
-{% assign emails = "@gmail.com|" | split: "|" %}
-{% include image-grid.html %}
 <!-- section break -->
 # {% include icon.html icon="fa-solid fa-users" %}[Alumnis](/ntou-lcl/members/Alumni)
 

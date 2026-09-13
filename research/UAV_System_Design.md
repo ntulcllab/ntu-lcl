@@ -6,6 +6,9 @@ subcategories:
     url: "/ntu-lcl/research/UAV_System_Design/Design_and_Applications"
   - title: 無人機互相閃避
     url: "/ntu-lcl/research/UAV_System_Design/Drones_avoid"
+  - title: 無人機動態追蹤降落系統
+    url: "/ntu-lcl/research/UAV_System_Design/Drone_landing"
+
 ---
 
 ## Multi-UAV System Design and Applications

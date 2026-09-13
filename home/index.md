@@ -13,7 +13,7 @@ nav:
 
 {% capture text %}
 歡迎蒞臨 國立臺灣大學生物機電工程學系 學習控制實驗室
-本實驗室主要著重於控制工程領域之研究，包含無人載具系統控制與多代理人系統協同合作控制以及強化學習控制
+本實驗室主要著重於機電整合與控制系統之各項研究，包含無人載具系統控制與多代理人系統協同合作控制以及強化學習控制
 
 Welcome to the Learning Control Laboratory of the Department of Biomechatronics Engineering, National Taiwan  University.
 This laboratory primarily focuses on research in the field of control engineering, including unmanned vehicle system control, multi-agent system cooperative control, and reinforcement learning control.

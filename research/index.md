@@ -57,7 +57,7 @@ Autonomous Moving Robot (AMR)
   text=text
 %}
 
-## Rinforcement Learning Control and Its Applications 強化學習控制與應用
+## Reinforcement Learning Control and Its Applications 強化學習控制與應用
 
 {% capture text %}
 [MARL](/ntu-lcl/research/MARL)
